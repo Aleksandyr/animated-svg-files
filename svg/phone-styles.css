@@ -1,0 +1,44 @@
+#skeleton {
+    animation: fadeInUp 1s;
+}
+
+#green-foreground g {
+    opacity: 0;
+    animation: dropIn 6s ease forwards;
+    animation-delay: calc(var(--order) * 200ms);
+}
+
+#tunder-icon_5 {
+    opacity: 0;
+    animation: dropIn 5s ease forwards;
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20%);
+    }
+
+    30% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes dropIn {
+    0% {
+        opacity: 0;
+        transform: translateY(-20%);
+    }
+
+    30%, 100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+
+}

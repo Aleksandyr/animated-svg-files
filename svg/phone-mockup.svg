@@ -1,0 +1,108 @@
+<?xml-stylesheet type="text/css" href="phone-styles.css" ?>
+<svg width="751" height="940" viewBox="0 0 751 940" fill="none" xmlns="http://www.w3.org/2000/svg" id="phone-mockup">
+    <g id="phone-mockup">
+        <rect id="surface" width="751" height="940" fill="white" />
+        <g id="phone" filter="url(#filter0_d_7_14)">
+            <path d="M157 163C157 140.909 174.909 123 197 123H542C564.091 123 582 140.909 582 163V778C582 800.091 564.091 818 542 818H197C174.909 818 157 800.091 157 778V163Z" fill="#F5F5F5" shape-rendering="crispEdges" />
+            <g id="skeleton">
+                <circle id="Ellipse 1" cx="219" cy="185" r="21" fill="#D9D9D9" />
+                <g id="menu">
+                    <rect id="Rectangle 2" x="485" y="169" width="53" height="7" fill="#D9D9D9" />
+                    <rect id="Rectangle 3" x="485" y="181" width="53" height="7" fill="#D9D9D9" />
+                    <rect id="Rectangle 4" x="485" y="194" width="53" height="7" fill="#D9D9D9" />
+                </g>
+                <g id="top-grid">
+                    <path id="Rectangle 5" d="M318 286C318 283.239 320.239 281 323 281H413C415.761 281 418 283.239 418 286V311C418 313.761 415.761 316 413 316H323C320.239 316 318 313.761 318 311V286Z" fill="#D9D9D9" />
+                    <path id="Rectangle 6" d="M198 286C198 283.239 200.239 281 203 281H293C295.761 281 298 283.239 298 286V311C298 313.761 295.761 316 293 316H203C200.239 316 198 313.761 198 311V286Z" fill="#D9D9D9" />
+                    <path id="Rectangle 7" d="M437 286C437 283.239 439.239 281 442 281H532C534.761 281 537 283.239 537 286V311C537 313.761 534.761 316 532 316H442C439.239 316 437 313.761 437 311V286Z" fill="#D9D9D9" />
+                    <path id="Rectangle 8" d="M360 332C360 329.239 362.239 327 365 327H461C463.761 327 466 329.239 466 332V357C466 359.761 463.761 362 461 362H365C362.239 362 360 359.761 360 357V332Z" fill="#D9D9D9" />
+                    <path id="Rectangle 9" d="M198 332C198 329.239 200.239 327 203 327H342C344.761 327 347 329.239 347 332V357C347 359.761 344.761 362 342 362H203C200.239 362 198 359.761 198 357V332Z" fill="#D9D9D9" />
+                    <path id="Rectangle 10" d="M485 332C485 329.239 487.239 327 490 327H532C534.761 327 537 329.239 537 332V357C537 359.761 534.761 362 532 362H490C487.239 362 485 359.761 485 357V332Z" fill="#D9D9D9" />
+                </g>
+                <g id="button">
+                    <path id="background-button" d="M248 431.5C248 415.76 260.76 403 276.5 403H449.5C465.24 403 478 415.76 478 431.5V431.5C478 447.24 465.24 460 449.5 460H276.5C260.76 460 248 447.24 248 431.5V431.5Z" fill="#D9D9D9" />
+                </g>
+                <g id="bottom-grid">
+                    <g id="grid-item4">
+                        <rect id="Rectangle 14" x="393" y="641" width="130" height="100" rx="10" fill="#D9D9D9" />
+                        <g id="Mask group">
+                            <mask id="mask0_7_14" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="393" y="641" width="130" height="100">
+                                <rect id="Rectangle 15" x="393" y="641" width="130" height="100" rx="10" fill="#D9D9D9" />
+                            </mask>
+                            <g mask="url(#mask0_7_14)">
+                                <path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M426 667L465.219 706.522L494.5 682L533.904 715H523V731C523 736.523 518.523 741 513 741H403C397.477 741 393 736.523 393 731V715H378.369L426 667Z" fill="#BCBCBC" />
+                            </g>
+                        </g>
+                    </g>
+                    <g id="grid-tem3">
+                        <rect id="Rectangle 13" x="217" y="641" width="130" height="100" rx="10" fill="#D9D9D9" />
+                        <g id="Mask group_2">
+                            <mask id="mask1_7_14" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="217" y="641" width="130" height="100">
+                                <rect id="Rectangle 15_2" x="217" y="641" width="130" height="100" rx="10" fill="#D9D9D9" />
+                            </mask>
+                            <g mask="url(#mask1_7_14)">
+                                <path id="Union_2" fill-rule="evenodd" clip-rule="evenodd" d="M250 667L289.219 706.522L318.5 682L357.904 715H347V731C347 736.523 342.523 741 337 741H227C221.477 741 217 736.523 217 731V715H202.369L250 667Z" fill="#BCBCBC" />
+                            </g>
+                        </g>
+                    </g>
+                    <g id="grid-item2">
+                        <rect id="Rectangle 16" x="393" y="503" width="130" height="100" rx="10" fill="#D9D9D9" />
+                        <g id="Mask group_3">
+                            <mask id="mask2_7_14" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="393" y="503" width="130" height="100">
+                                <rect id="Rectangle 15_3" x="393" y="503" width="130" height="100" rx="10" fill="#D9D9D9" />
+                            </mask>
+                            <g mask="url(#mask2_7_14)">
+                                <path id="Union_3" fill-rule="evenodd" clip-rule="evenodd" d="M426 529L465.219 568.522L494.5 544L533.904 577H523V593C523 598.523 518.523 603 513 603H403C397.477 603 393 598.523 393 593V577H378.369L426 529Z" fill="#BCBCBC" />
+                            </g>
+                        </g>
+                    </g>
+                    <g id="grid-item1">
+                        <rect id="Rectangle 17" x="217" y="503" width="130" height="100" rx="10" fill="#D9D9D9" />
+                        <g id="Mask group_4">
+                            <mask id="mask3_7_14" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="217" y="503" width="130" height="100">
+                                <rect id="Rectangle 15_4" x="217" y="503" width="130" height="100" rx="10" fill="#D9D9D9" />
+                            </mask>
+                            <g mask="url(#mask3_7_14)">
+                                <path id="Union_4" fill-rule="evenodd" clip-rule="evenodd" d="M250 529L289.219 568.522L318.5 544L357.904 577H347V593C347 598.523 342.523 603 337 603H227C221.477 603 217 598.523 217 593V577H202.369L250 529Z" fill="#BCBCBC" />
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="green-foreground">
+                <g id="notification-1" style="--order: 5">
+                    <ellipse id="Ellipse 2" cx="347" cy="503.5" rx="30" ry="28.5" fill="#5DE555" />
+                    <path id="tunder-icon" d="M345.108 504.981L340.784 518L357 499.321H346.73L355.378 488H340.784L337 504.981H345.108Z" fill="white" />
+                </g>
+                <g id="notification-2" style="--order: 4">
+                    <ellipse id="Ellipse 2_2" cx="523" cy="503.5" rx="30" ry="28.5" fill="#5DE555" />
+                    <path id="tunder-icon_2" d="M521.108 504.981L516.784 518L533 499.321H522.73L531.378 488H516.784L513 504.981H521.108Z" fill="white" />
+                </g>
+                <g id="notification-3" style="--order: 3">
+                    <ellipse id="Ellipse 2_3" cx="347" cy="641.5" rx="30" ry="28.5" fill="#5DE555" />
+                    <path id="tunder-icon_3" d="M345.108 642.981L340.784 656L357 637.321H346.73L355.378 626H340.784L337 642.981H345.108Z" fill="white" />
+                </g>
+                <g id="notification-4" style="--order: 2">
+                    <ellipse id="Ellipse 2_4" cx="523" cy="641.5" rx="30" ry="28.5" fill="#5DE555" />
+                    <path id="tunder-icon_4" d="M521.108 642.981L516.784 656L533 637.321H522.73L531.378 626H516.784L513 642.981H521.108Z" fill="white" />
+                </g>
+                <g id="front-button" style="--order: 1">
+                    <path id="top-button" d="M248 431.5C248 415.76 260.76 403 276.5 403H449.5C465.24 403 478 415.76 478 431.5V431.5C478 447.24 465.24 460 449.5 460H276.5C260.76 460 248 447.24 248 431.5V431.5Z" fill="#5DE555" />
+                    <path id="tunder-icon_5" d="M361.108 432.981L356.784 446L373 427.321H362.73L371.378 416H356.784L353 432.981H361.108Z" fill="white" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <filter id="filter0_d_7_14" x="138" y="115" width="463" height="733" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feOffset dy="11" />
+            <feGaussianBlur stdDeviation="9.5" />
+            <feComposite in2="hardAlpha" operator="out" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_7_14" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_7_14" result="shape" />
+        </filter>
+    </defs>
+</svg>

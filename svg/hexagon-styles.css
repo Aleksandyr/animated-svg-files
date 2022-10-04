@@ -1,0 +1,119 @@
+#vector-1,
+#vector-2,
+#vector-3,
+#vector-4,
+#vector-5,
+#vector-6 {
+    transition: all 1s ease;
+    transition-delay: 450ms;
+    /* padding: 5px; */
+}
+
+#ellipse-4 {
+    animation: easeOutEl4 2s;
+    /* animation-delay: 450ms; */
+}
+
+#ellipse-5 {
+    animation: easeOutEl5 2s;
+    /* animation-delay: 450ms; */
+}
+
+#ellipse-6 {
+    animation: easeOutEl6 2s;
+    /* animation-delay: 450ms; */
+}
+
+#triangles:hover #ellipse-4 {
+    animation: easeInEl4 1s;
+    animation-fill-mode: forwards;
+}
+
+#triangles:hover #ellipse-5 {
+    animation: easeInEl5 1s;
+    animation-fill-mode: forwards;
+}
+
+#triangles:hover #ellipse-6 {
+    animation: easeInEl6 1s;
+    animation-fill-mode: forwards;
+}
+
+#triangles:hover #vector-1 {
+    transform: translateX(-8px);
+}
+#triangles:hover #vector-2 {
+    transform: translate(-4px, -7px);
+}
+#triangles:hover #vector-3 {
+    transform: translate(4px, -7px);
+}
+#triangles:hover #vector-4 {
+    transform: translateX(8px);
+}
+#triangles:hover #vector-5 {
+    transform: translate(-4px, 7px);
+}
+#triangles:hover #vector-6 {
+    transform: translate(4px, 7px);
+}
+
+@keyframes easeInEl4 {
+    0% {
+        transform: translate(9.5px, 1px) scale(.8);
+    }
+
+    100% {
+        transform: translate(-9px, 23px) scale(1.2);
+    }
+}
+
+@keyframes easeOutEl4 {
+    0% {
+        transform: translate(-9px, 23px) scale(1.2);
+    }
+    
+    100% {
+        transform: translate(9.5px, 1px) scale(.8);
+    }
+}
+
+@keyframes easeInEl5 {
+    0% {
+        transform: translate(17px, 4px) scale(.8);
+    }
+
+    100% {
+        transform: translate(-37.4px, 6.5px) scale(1.2);
+    }
+}
+
+@keyframes easeOutEl5 {
+    0% {
+        transform: translate(-37.4px, 6.5px) scale(1.2);
+    }
+    
+    100% {
+        transform: translate(17px, 4px) scale(.8);
+    }
+}
+
+@keyframes easeInEl6 {
+    0% {
+        transform: translate(15px, 14px) scale(.8);
+    }
+    
+    100% {
+        transform: translate(-39.5px, -27px) scale(1.2);
+    }
+}
+
+@keyframes easeOutEl6 {
+    0% {
+        transform: translate(-39.5px, -27px) scale(1.2);
+    }
+    
+    100% {
+        transform: translate(15px, 14px) scale(.8);
+    }
+}

@@ -1,0 +1,18 @@
+<?xml-stylesheet type="text/css" href="triangle-styles.css" ?>
+<svg width="120" height="100" viewBox="0 0 120 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="triangles" clip-path="url(#clip0_1_2)">
+<g id="lightGroup">
+    <path id="light1" 
+    d="M47 48.268C48.3333 49.0378 48.3333 50.9623 47 51.7321L8 74.2487C6.66666 75.0185 5 74.0563 5 72.5167L5 27.4833C5 25.9437 6.66667 24.9815 8 25.7513L47 48.268Z" />
+</g>
+<g id="darkGroup">
+<path id="dark2" d="M64 48.268C65.3333 49.0378 65.3333 50.9623 64 51.7321L25 74.2487C23.6667 75.0185 22 74.0563 22 72.5167L22 27.4833C22 25.9437 23.6667 24.9815 25 25.7513L64 48.268Z" fill="#635BFF" fill-opacity="0.75"/>
+<path id="dark1" d="M47 48.268C48.3333 49.0378 48.3333 50.9623 47 51.7321L8 74.2487C6.66666 75.0185 5 74.0563 5 72.5167L5 27.4833C5 25.9437 6.66667 24.9815 8 25.7513L47 48.268Z" fill="#635BFF" fill-opacity="0.76"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_2">
+<rect width="120" height="100" fill="white"/>
+</clipPath>
+</defs>
+</svg>
